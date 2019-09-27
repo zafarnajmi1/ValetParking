@@ -1,0 +1,131 @@
+/* 
+  Localizable.strings
+  ValetParking
+
+  Created by My Technology on 03/09/2018.
+  Copyright © 2018 Zafar Najmi. All rights reserved.
+*/
+
+//Login
+"Sign In" = "Sign In";
+"Enter Email"  = "Enter Email" ;
+"Enter Password" = "Enter Password";
+"Forgot Password?" = "Forgot Password?";
+"Sign in" = "Sign in";
+
+//Add Agent
+"Currently Parked Cars" = "Currently Parked Cars";
+"Add An Agent" = "Add An Agent";
+"What would you like to do?" = "What would you like to do?";
+"Disable Valet" = "Disable Valet";
+"Active Valet" = "Active Valet";
+"Add Valet"  = "Add Valet";
+"Name" = "Name";
+"Email" = "Email";
+"Password" = "Password";
+"Confirm Password" = "Confirm Password";
+"Adress" = "Adress";
+"Phone" = "Phone";
+"Add Valtes" = "Add Valtes";
+
+
+//Menu
+"Profile" = "Profile";
+"History" = "History";
+"Valet" = "Valet";
+"Change Language" = "Change Language";
+"Contact Us" = "Contact";
+"Help" = "Help";
+"Logout" = "Logout";
+
+//Profile
+"Name" = "Name";
+"Email" = "Email";
+"Phone" = "Phone";
+"Password" = "Password";
+"About Company" = "About Company";
+"Save" = "Save";
+"Cancel" = "Cancel";
+"Company Profile" = "Company Profile";
+"Agent Profile" = "Agent Profile";
+
+//Cars
+"Parked Cars History" = "Parked Cars History";
+"Cars" = "Cars";
+"Active" = "Active";
+"Disable" = "Disable";
+"Follow Us" = "Follow Us";
+
+//History
+"Parked Cars History" = "Parked Cars History";
+"Cars" = "Cars";
+"Active" = "Active";
+"Disable" = "Disable";
+"Follow Us" = "Follow Us";
+
+//Contact
+"What can we help you with" = "What can we help you with";
+"Your Comment" = "Your Comment";
+"Submit" = "Submit";
+
+//Help
+"Take Picture" = "Take Picture";
+"Fill Details" = "Fill Details";
+"Park Vehicle" = "Park Vehicle";
+"Notification" = "Notification";
+"Release Vehicle" = "Release Vehicle";
+
+//Language
+"Language" = "Language";
+"Select language" = "Select language";
+"Select language to continue with" = "Select language to continue with";
+
+//Agent Profile
+"View Stats" = "View Stats";
+"Disable Valet" = "Disable Valet";
+"Enable Valet" = "Enable Valet";
+"Address" = "Address";
+"still Parked" = "still Parked";
+"Park Time" = "Park Time";
+
+//New Addition
+"Release" = "Release";
+"In Progress" = "In Progress";
+"Park A Car" = "Park A Car";
+"Release A Car" = "Release A Car";
+"Terms & Conditions" = "Terms & Conditions";
+"About Us" = "About Us";
+"Contact" = "Contact";
+"Add Car Information" = "Add Car Information";
+"e.g William Blake" = "e.g William Blake";
+"e.g ABC 1234" = "e.g ABC 1234";
+"e.g williamblake@gmail.com" = "e.g williamblake@gmail.com";
+"e.g 123 4567890" = "e.g 123 4567890";
+"Name:" = "Name:";
+"Vehicle No:" = "Vehicle No:";
+"Email:" = "Email:";
+"Phone No:" = "Phone No:";
+"Park Car" = "Park Car";
+
+"Password:" = "Password:";
+"View Stats" = "View Stats";
+"Vehicle No :" = "Vehicle No";
+"User Name:" = "User Name:";
+"Phone No" = "Phone No";
+
+"Start Request" = "Start Request";
+"Under Progress" = "Under Progress";
+"Finish Request" = "Finish Request";
+"Release A Car" = "Release A Car";
+"Parked Car Information" = "Parked Car Information";
+"Release Car Now" = "Release Car Now";
+"Valet Stats" = "Valet Stats";
+
+
+
+
+
+
+
+
+

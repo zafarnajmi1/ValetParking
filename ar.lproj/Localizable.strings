@@ -1,0 +1,126 @@
+/* 
+  Localizable.strings
+  ValetParking
+
+  Created by My Technology on 03/09/2018.
+  Copyright © 2018 Zafar Najmi. All rights reserved.
+*/
+
+//Login
+"Sign In" = "تسجيل الدخول";
+"Enter Email"  = "أدخل البريد الإلكتروني";
+"Enter Password" = "أدخل كلمة المرور";
+"Forgot Password?" = "هل نسيت كلمة المرور؟";
+"Sign in" = "تسجيل الدخول";
+"Currently Parked Cars" = "حاليا متوقفة سيارات";
+
+//add Agent
+"Add An Agent" = "أضف وكيل";
+"What would you like to do?" = "ماذا تريد ان تفعل؟";
+"Disable Valet" = "تعطيل الوكيل";
+"Active Valet" = "وكلاء نشطة";
+"Add Valet" = "عملاء";
+"Name" = "اسم";
+"Email" = "البريد الإلكتروني";
+"Password" = "كلمه السر";
+"Confirm Password" = "تأكيد كلمة المرور";
+"Adress: " = "عنوان";
+"Phone" = "هاتف";
+"Add Valtes" = "أضف وكيل";
+
+//menu
+"Profile" = "الملف الشخصي";
+"History" = "التاريخ";
+"Valet" = "عملاء";
+"Change Language" = "غير اللغة";
+"Contact Us" = "اتصل";
+"Help" = "مساعدة";
+"Logout" = "الخروج";
+
+//Profile
+"Name: " = "اسم";
+"Email: " = "اسم";
+"Phone: " = "هاتف";
+"Password" = "كلمه السر";
+"About Company" = "عن الشركة";
+"Save" = "حفظ";
+"Cancel" = "إلغاء";
+"Company Profile" = "ملف الشركة";
+"Agent Profile" = "ملف تعريف الوكيل";
+
+//History
+"Parked Cars History" = "تاريخ السيارات المتوقفة";
+"Cars" = "سيارات";
+"Active" = "نشيط";
+"Disable" = "تعطيل";
+"Follow Us" = "تابعنا";
+
+//Contact
+"What can we help you with" = "بمادا يمكننا ان نساعدك";
+"Your Comment" = "تعليقك";
+"Submit" = "خضع";
+
+
+//Help
+"Take Picture" = "خذ الصورة";
+"Fill Details" = "ملء التفاصيل";
+"Park Vehicle" = "سيارة بارك";
+"Notification" = "إعلام";
+"Release Vehicle" = "إطلاق المركبة";
+
+//Language
+"Language" = "لغة";
+"Select language" = "اختار اللغة";
+"Select language to continue with" = "اختر لغة للمتابعة";
+
+
+//agent Profile
+"View Stats" = "عرض احصائيات";
+"Disable Valet" = "تعطيل الوكيل";
+"Enable Valet" = "تمكين الوكيل";
+"Address" = "عنوان";
+"still Parked" = "لا تزال متوقفة";
+"Park Time" = "بارك تايم";
+
+
+//New Addition
+"Release" = "إطلاق سراح";
+"In Progress" = "في تَقَدم";
+"Park A Car" = "بارك أي سيارة";
+"Release A Car" = "الافراج عن سيارة";
+"Terms & Conditions" = "البنود و الظروف";
+"About Us" = "معلومات عنا";
+"Contact" = "اتصل";
+"Add Car Information" = "إضافة معلومات السيارة";
+//"e.g William Blake" = "على سبيل المثال وليام بليك";
+//"e.g ABC 1234" = "على سبيل المثال";
+//"e.g williamblake@gmail.com" = "على سبيل المثال";
+//"e.g williamblake@gmail.com" = "على سبيل المثال";
+
+"e.g 123 4567890" = "على سبيل المثال";
+"Name:" = "اسم:";
+"Vehicle No:" = "السيارة لا:";
+"Email:" = "اسم:";
+"Phone No:" = "رقم الهاتف:";
+"Park Car" = "موقف السيارات";
+"Password:" = "كلمه السر";
+"View Stats" = "عرض احصائيات";
+"Vehicle No :" = "السيارة لا:";
+"User Name:" = "اسم";
+"Phone No" = "رقم الهاتف:";
+
+"Start Request" = "بدء الطلب";
+"Under Progress" = "قيد التنفيذ";
+"Finish Request" = "طلب الانتهاء";
+"Release A Car" = "الافراج عن سيارة";
+"Parked Car Information" = "معلومات السيارة المتوقفة";
+"Release Car Now" = "إطلاق السيارة الآن";
+
+"Valet Stats" = "إحصائيات Valet";
+
+
+
+
+
+
+
